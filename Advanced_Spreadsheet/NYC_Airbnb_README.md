@@ -5,6 +5,7 @@ This is my first project for the TripleTen Business Intelligence Analytics Progr
 [<img src="https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/airbnb_NYC_3.png" alt="airbnb_NYC_3">](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/airbnb_NYC_3.png)
 
 The Google Sheets workbook can be found <a href='https://docs.google.com/spreadsheets/d/1fC8PR8QrBSSON52mFwTbQOD3YYsWF1wl_P9Ay5MvLUI/edit?gid=1885122433#gid=1885122433'><u>here</u>.</a>
+
 The Google Docs report can be found <a href='https://docs.google.com/document/d/17tWkreXhBYDy8G4xCUnBEOIpyCluT_DTSrCxf2oEgiE/edit?tab=t.0'><u>here</u>.</a>
 
 ### NYC_Airbnb_Project File Table of Contents
