@@ -18,10 +18,10 @@ The Google Docs report can be found <a href='https://docs.google.com/document/d/
 
 | Section Title | Description |
 | ----------- |----------- |
-| Project Description | Describes the project's purpose. |
-| About the Data | Describes the source of data, included files, tables, and fields. |
-| Process | A general outline of how this project was completed. |
-| Findings | Insights learned from the data analysis. |
+| Project Description | Details the projects intended purpose and describes requirements. |
+| About the Data | Describes the data used in the project. |
+| Process | Briefly describes methodology. |
+| Findings | Brief summary of insights learned from the analysis and recommendations provided. |
 | Reviewer’s Comments | Project reviewer’s comments on the project. |
 | Reflection | Challenges, Improvements, what I learned, etc. | 
 
