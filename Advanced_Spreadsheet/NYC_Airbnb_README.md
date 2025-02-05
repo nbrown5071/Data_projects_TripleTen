@@ -35,5 +35,7 @@ The Google Sheets workbook can be found <a href='https://docs.google.com/spreads
 
 
 ### Reviewer’s Comments
+Hello, Nathan. I glad to see you again =)
 
-[<img src="https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/reviewer_comments.%20png.png" alt="reviewer_comments">](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/reviewer_comments.%20png.png)
+Тhank you for your excellent work, it's almost perfect. Your Excel is easy to read, you brilliantly added calculations and precisely answered all the questions. You did an excellent job in this project! Excel can be tedious, but it is a powerful tool. There are no issues that need to be fixed, so I can accept the project now. Awesome job Thank you for your work and I wish you success in your next projects!) 😊
+[<img src="https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/reviewer_comments.png">](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/reviewer_comments.png)
