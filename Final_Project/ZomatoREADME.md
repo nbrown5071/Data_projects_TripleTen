@@ -50,8 +50,10 @@ First, I performed a detailed exploration of all five files received. I looked f
   - 11-page Report
   - Three Tableau Dashboards
 
-### Reviewer’s Comments
-"Nathan, great job! Thank you for this submission - an awesome project!"
-
 ### Reflection
 My biggest challenge during this project was visualizing a clear and concise tool to develop the marketing segments in Part II of my analysis. After creating this visual tool, I immediately felt the need to improve it. There is nothing wrong with it; however, I knew it could be better. My previous experience with developing tools and visuals for end users has taught me to always create on a "low level." By developing in this manner, you can create complex tools that are clear for new hires and/or busy executives.
+
+
+### Reviewer’s Comments
+"Nathan, great job! Thank you for this submission - an awesome project!"
+[<img src="https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/reviewer_comments.%20png.png" alt="reviewer_comments">](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/reviewer_comments.%20png.png)
