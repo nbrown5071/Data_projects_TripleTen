@@ -38,11 +38,13 @@ The data was received and downloaded from the TripleTen platform called Zomato D
 - `'orders.csv'`: The file contained order history data including order date, sales quantity, and amount, currency, and user id, etc.
 
 ### Process
-First, I performed a detailed exploration of all five files received. I looked for areas where the data may need to be cleaned or manipulated. While reviewing, I developed questions about the columns and formulated my research plan. I also looked for like/ similar columns to join files. I decided to use Tableau beacuse of the size of the data files; and for its visual customization tools. I choose to use the users and orders files because I wanted to perform a marketing analysis using sales and customer data. Next, prepared my research report and outlined my visuals/ dashboards. I also thought of potential parameters/ calculated fields I would need to execute my analysis and visuals. 
+First, I performed a detailed exploration of all five files received. I looked for areas where the data may need to be cleaned or manipulated. While reviewing, I developed questions about the columns and formulated my research plan. I also looked for like/ similar columns to join files. I decided to use Tableau because of the size of the data files; and for its visual customization tools. I choose to use the users and orders files because I wanted to perform a marketing analysis using sales and customer data. Next, I prepared my research report, and I outlined my visuals/ dashboards. I also thought of potential parameters/ calculated fields I would need to execute my analysis and visuals. 
 
 ### Findings
 • Zomato’s marketing team should primarily focus its marketing efforts on improving sales amongst the employed users with income segment. Even though the sales data for 2020 is incomplete, it is already significantly outpacing the single students without income segment.
+
 • Education Demographic: Because education makes up nearly 100% of the Zomato population and students make up 69% of users, Zomato’s marketing should considers placing advertisements at schools and college campuses. They should also consider utilizing digital banner ads related to education platforms. This will help improve sales for the students without income segment.
+
 • Overall, sales are trending negatively for both segments. Zomato’s marketing team should advertise in months with the lowest average monthly sales in order to improve overall sales throughout the year.
   - Two page Research Proposal
   - 11-page Report
