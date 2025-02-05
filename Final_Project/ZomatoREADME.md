@@ -10,6 +10,15 @@ The Tableau Public workbook can be found <a href='https://public.tableau.com/vie
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [TripleTen BIA Final Project Assessment Criteria](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/TripleTen%20BIA%20Final%20Project%20Assessment%20Criteria.pdf) | A .pdf file containing the assessment criteria for the project | 
+| 2 | [Zomato Customer Analysis](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/Zomato%20Customer%20Analysis.pdf) | A formal .pdf report with table of contents. Contains visual insights and recommendations for client. Limitations of analysis for transparency are also listed. |
+| 3 | [Zomato Marketing Segment Dashboard](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/Zomato%20Marketing%20Segment%20Dashboard.png) | A .png file of the final dashboard of the marketing segments. |
+| 4 | [Zomato Research Proposal](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/Zomato%20Research%20Proposal.pdf) | A .pdf report detailing my decomposition and questions to be answered with this analysis. | 
+| 5 | [ZomatoREADME](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/ZomatoREADME.md) | A file with relevant information about the project, current view. | 
+| 6 | [Orders.csv](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/orders.csv) | A file containing Zomato orders and sales data from TripleTen. |
+| 7 | [Users.csv](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/users.csv) | A file containing Zomato customer demographic data from TripleTen. |
+| 8 | [zomato.twb](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/zomato.twb) | A Tableau file containing all visuals and formulas. | 
+
+
 
 | Section Title | Description |
 | ----------- |----------- |
