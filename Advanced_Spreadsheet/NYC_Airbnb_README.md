@@ -18,7 +18,7 @@ The Google Docs report can be found <a href='https://docs.google.com/document/d/
 
 | Section Title | Description |
 | ----------- |----------- |
-| Project Description | Describes the final product's purpose, software, format, and included visuals. |
+| Project Description | Describes the project's purpose. |
 | About the Data | Describes the source of data, included files, tables, and fields. |
 | Process | A general outline of how this project was completed. |
 | Findings | Insights learned from the data analysis. |
