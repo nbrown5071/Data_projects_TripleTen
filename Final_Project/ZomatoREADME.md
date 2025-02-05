@@ -22,10 +22,10 @@ The Tableau Public workbook can be found <a href='https://public.tableau.com/vie
 
 | Section Title | Description |
 | ----------- |----------- |
-| Project Description | Describes the final product's purpose, software, format, and included visuals. |
-| About the Data | Describes the source of data, included files, tables, and fields. |
-| Process | A general outline of how this project was completed. |
-| Findings | Insights learned from the data analysis. |
+| Project Description | Details the projects intended purpose and describes requirements. |
+| About the Data | Describes the data used in the project. |
+| Process | Briefly describes methodology. |
+| Findings | Brief summary of insights learned from the analysis and recommendations provided. |
 | Reviewer’s Comments | Project reviewer’s comments on the project. |
 | Reflection | Challenges, Improvements, what I learned, etc. | 
 
