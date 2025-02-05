@@ -29,15 +29,24 @@ The Google Docs report can be found <a href='https://docs.google.com/document/d/
 | Reflection | Challenges, Improvements, what I learned, etc. | 
 
 ### Project Description 
+Airbnb is an app based company designed to help users acquire or rent short-term or long-term housing. In this project, we are tasked with helping a client determine which property type to invest in by analyzing the Manhattan vacation rental market using Airbnb data. This project demonstates data cleaning, organization, and documentation techniques. It also showcases use of advanced formulas, conditional formatting, filters, and visualizations.
 
 ### Data
 
 ### Process
 
 ### Findings
+•	Neighborhoods with one-bedroom properties are our most popular property size. 
+
+•	Harlem, the Lower East Side, and Hells Kitchen are the most popular neighborhoods. These neighborhoods also have the most one-bedroom properties. 
+
+•	The highest earning neighborhoods with one-bedroom properties and reviews within the last 12 months are not the same as our most popular neighborhoods. Instead, they are the West Village, Chelsea, and Midtown.
+
+•	Further research is needed to determine housing cost and expenses in our top neighborhoods vs highest earning neighborhoods. We will need this information to accurately describe the income earning potential of a listing.
+
 
 ### Reflection
-
+I have a solid history using Excel/ Google Sheets in the workplace. My key takeaway from this project involved data organization, documentation, and presentation. This was a huge data set with multiple columns and rows, so taking the time to document each data preparation step was paramount. It was also critical to lock certain sheets containing raw data to prevent errors and check work. Lastly, creating a table of contents that linked each sheet to a title allowed me to stay organized and it makes the workbook look professional. 
 
 ### Reviewer’s Comments
 Hello, Nathan. I glad to see you again =)
