@@ -11,9 +11,12 @@ The Google Docs report can be found <a href='https://docs.google.com/document/d/
 ### NYC_Airbnb_Project File Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [TripleTen BIA Final Project Assessment Criteria](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/TripleTen%20BIA%20Final%20Project%20Assessment%20Criteria.pdf) | A .pdf file containing the assessment criteria for the project | 
-| 2 | []() | description | 
-
+| 1 | [NYC_Airbnb_README](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/NYC_Airbnb_README.md) | A file with relevant information about the project, current view. | 
+| 2 | [Project_Rubric](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/Project_Rubric.pdf) | A .pdf file containing the assessment criteria for the project |
+| 3 | [airbnb_NYC_1.png](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/airbnb_NYC_1.png) | A .png visualization from project | 
+| 4 | [airbnb_NYC_2.png](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/airbnb_NYC_2.png) | A .png visualization from project | 
+| 5 | [airbnb_NYC_3.png](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/airbnb_NYC_3.png) | A .png visualization from project | 
+| 6 | [Reviewer Comments](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/reviewer_comments.png) | screen shot of project reviewer comments | 
 
 
 | Section Title | Description |
