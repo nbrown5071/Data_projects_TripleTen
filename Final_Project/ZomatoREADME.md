@@ -1,4 +1,4 @@
-﻿# File Title: Zomato_Customer_Analysis_&_Marketing_Proposal
+﻿# Project Title: Zomato Customer Analysis & Marketing Proposal
 
 This is my final project for the TripleTen Business Intelligence Analytics Program. This project was designed to demonstrate my analysis and visualization skills. I used Zomato demographic customer data and order history data to identify marketing segments in order to increase declining sales.
 
