@@ -1,0 +1,67 @@
+/* Task 1 Code */
+SELECT cabs.company_name,
+       count(trips.trip_id) AS trips_amount
+FROM cabs
+JOIN trips ON cabs.cab_id = trips.cab_id
+WHERE cast(trips.start_ts AS date) IN ('2017-11-15',
+                                       '2017-11-16')
+GROUP BY cabs.company_name
+ORDER BY trips_amount DESC;
+
+/* Task 2 Code */
+SELECT cabs.company_name,
+       count(trips.trip_id) AS trips_amount
+FROM cabs
+JOIN trips ON cabs.cab_id = trips.cab_id
+WHERE cast(trips.start_ts AS date) IN ('2017-11-01',
+                                       '2017-11-02',
+                                       '2017-11-03',
+                                       '2017-11-04',
+                                       '2017-11-05',
+                                       '2017-11-06',
+                                       '2017-11-07')
+GROUP BY cabs.company_name;
+
+/* Task 3 Code */
+SELECT CASE
+           WHEN cabs.company_name = 'Flash Cab' THEN 'Flash Cab'
+           WHEN cabs.company_name = 'Taxi Affiliation Services' THEN 'Taxi Affiliation Services'
+           ELSE 'Other'
+       END AS company,
+       count(trips.trip_id) AS trips_amount
+FROM cabs
+INNER JOIN trips ON trips.cab_id = cabs.cab_id
+WHERE cast(trips.start_ts AS date) BETWEEN '2017-11-01' AND '2017-11-07'
+GROUP BY company
+ORDER BY trips_amount DESC;
+
+/* Task 4 Code */
+SELECT *
+FROM neighborhoods
+WHERE name LIKE '%Hare'
+  OR name LIKE 'Loop';
+
+/* Task 5 Code */
+SELECT ts,
+       CASE
+           WHEN description LIKE '%rain%' THEN 'Bad'
+           WHEN description LIKE '%storm%' THEN 'Bad'
+           ELSE 'Good'
+       END AS weather_conditions
+FROM weather_records;
+
+/* Task 6 Code */
+SELECT trips.start_ts,
+       CASE
+           WHEN weather_records.description LIKE '%rain%' THEN 'Bad'
+           WHEN weather_records.description LIKE '%storm%' THEN 'Bad'
+           ELSE 'Good'
+       END AS weather_conditions,
+       trips.duration_seconds
+FROM trips
+INNER JOIN weather_records ON trips.start_ts = weather_records.ts
+WHERE trips.pickup_location_id = 50
+  AND trips.dropoff_location_id = 63
+  AND EXTRACT (dow
+               FROM trips.start_ts) = 6
+ORDER BY trips.trip_id;
