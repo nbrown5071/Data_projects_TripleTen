@@ -17,34 +17,22 @@
 | Project Description | Details the projects intended purpose and describes requirements. |
 | About the Data | Describes the data used in the project. |
 | Process | Briefly describes methodology. |
-| Findings | Brief summary of insights learned from the analysis and recommendations provided. |
 | Reflection | Challenges, Improvements, what I learned, etc. | 
 
 ### Project Description 
-Zomato is an Indian multinational restaurant aggregator and food delivery company. TripleTen provided multiple test datasets. The ask was to perform a customer analysis, sales analysis, restaurant analysis, or other analysis using the data in either Tableau or Microsoft Power BI. The first step, was to decided which analysis to perform and create a detailed research proposal. The research proposal should outline the final report and visuals by including questions, hypothesis, and potential visuals to be displayed in the final report and dashboard. The final report and dashboard should not deviate from the research proposal. It should included recommendations and limitations
+Zuber is a fictional, new ride-sharing company that's launching in Chicago. We were tasked to find patterns in the available information in order to help Zuber understand passenger preferences and the impact of external factors on rides by completing six SQL query questions. This project was executed on the TripleTen SQL platform. Each question/ task was designed to test our advanced SQL skills; subqueries, joins, case statements, etc. In order to move to the next task, your query statement and query results had to perfectly match the TripleTen platform. 
 
-### Data
-The data was received and downloaded from the TripleTen learning platform. It contained five different .csv files (orders, users, food, restaurants, & menu). The below are the files I used for my analysis:
-- `'users.csv'`: The file contained User data (name, user id, email address, etc.) and demographic data (age, monthly income, education level, marital status, etc.) information about Zomato's customers.
-- `'orders.csv'`: The file contained order history data including order date, sales quantity, and amount, currency, and user id, etc.
+### About the Data
+This project was executed on the TripleTen SQL platform. No data was able to be downloaded. TripleTen provided a [data dictionary and relationship table](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Zuber_SQL_Project/Zuber%20SQL%20Project%20Description.pdf). 
+The Zuber Database consisted of the following:
+- Four tables: trips, cabs, weather_records, & neighborhoods
+
 
 ### Process
-First, I performed a detailed exploration of all five files received. I looked for areas where the data may need to be cleaned or manipulated. While reviewing, I developed questions about the columns and formulated my research plan. I also looked for like/ similar columns to join files. I decided to use Tableau because of the size of the data files; and for its visual customization tools. I choose to use the users and orders files because I wanted to perform a marketing analysis using sales and customer data. Next, I prepared my research report, and I outlined my visuals/ dashboards. I also thought of potential parameters/ calculated fields I would need to execute my analysis and visuals. 
+Even though this project was more of a test of skills vs. analysis with findings, I still performed exploratory analysis. First, I reviewed the data dictionary and relationship table. Next, I ran some test queries to identify tables that may need to be manipulated. For example, start_ts and end_ts are formatted as "time" but they both contain "date" data. This means I might need to perform a "cast" function in a query in order to get the desired results.
 
-### Findings
-• Zomato’s marketing team should primarily focus its marketing efforts on improving sales amongst the employed users with income segment. Even though the sales data for 2020 is incomplete, it is already significantly outpacing the single students without income segment.
-
-• Education Demographic: Because education makes up nearly 100% of the Zomato population and students make up 69% of users, Zomato’s marketing should considers placing advertisements at schools and college campuses. They should also consider utilizing digital banner ads related to education platforms. This will help improve sales for the students without income segment.
-
-• Overall, sales are trending negatively for both segments. Zomato’s marketing team should advertise in months with the lowest average monthly sales in order to improve overall sales throughout the year.
-  - Two page Research Proposal
-  - 11-page Report
-  - Three Tableau Dashboards
 
 ### Reflection
-My biggest challenge during this project was visualizing a clear and concise tool to develop the marketing segments in Part II of my analysis. After creating this visual tool, I immediately felt the need to improve it. There is nothing wrong with it; however, I knew it could be better. My previous experience with developing tools and visuals for end users has taught me to always create on a "low level." By developing in this manner, you can create complex tools that are clear for new hires and/or busy executives.
+SQL will always test your ability to break down and translate a question into SQL language. I found most of the tasks for this project to be farely straight forward except for task 3. At first, I kept trying to use a subquery to get the desired results. Then, I realized I needed to use a case statement because the task is asking you to breakdown rides between two cab companies.
 
 
-### Reviewer’s Comments
-"Nathan, great job! Thank you for this submission - an awesome project!"
-[<img src="https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/reviewer_comments.%20png.png" alt="reviewer_comments">](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Final_Project/reviewer_comments.%20png.png)
