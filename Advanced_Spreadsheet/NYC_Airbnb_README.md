@@ -31,7 +31,7 @@ The Google Docs report can be found <a href='https://docs.google.com/document/d/
 ### Project Description 
 Airbnb is an app based company designed to help users acquire or rent short-term or long-term housing. In this project, we are tasked with helping a client determine which property type to invest in by analyzing the Manhattan vacation rental market using Airbnb data. This project demonstates data cleaning, organization, and documentation techniques. It also showcases use of advanced formulas, conditional formatting, filters, and visualizations. The project required us to answer 1) Which neighborhoods and property sizes (i.e. number of bedrooms) are most attractive for vacation rentals? 2) How much money did these listings generate?
 
-### Data
+### About the Data
 The data was received from the TripleTen learning platform and copied to my Google Sheets app. It contained three different sheets in one file (Listings, Calendar, & Data Dictionary).
 - Data Dictionary - This sheet defined each column and row for both the Calendar and Listings sheets. 
 - Calendar - This sheet contained 7 columns and 70K+ rows of sales data for each day a listing was booked. Limited to September and part of October for the 2022 calendar year. 
