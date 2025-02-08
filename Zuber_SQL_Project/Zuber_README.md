@@ -5,11 +5,11 @@
 ### Zuber SQL Project Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Zuber_README]() | Current View, Contains relevant information about the project | 
-| 2 | [Zuber Relationship Table](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Zuber_SQL_Project/Zuber%20Relationship%20Table.png) | A .png image file of the relationships between tables for Zuber | 
-| 1 | [Zuber SQL Project Description](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Zuber_SQL_Project/Zuber%20SQL%20Project%20Description.pdf) | A .pdf file containing the data dictionary, relationship table, and brief project description. | 
-| 1 | [Zuber SQL Project Task Answers](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Zuber_SQL_Project/Zuber%20SQL%20Project%20Task%20Answers.txt) | A .txt file containing SQL code answers for the project questions | 
-| 1 | [Zuber SQL Project Tasks](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Zuber_SQL_Project/Zuber%20SQL%20Project%20Tasks.pdf) | A .pdf file containing the questions/ tasks for the project | 
+| 1 | [Zuber Relationship Table](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Zuber_SQL_Project/Zuber%20Relationship%20Table.png) | A .png image file of the relationships between tables for Zuber | 
+| 2 | [Zuber SQL Project Description](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Zuber_SQL_Project/Zuber%20SQL%20Project%20Description.pdf) | A .pdf file containing the data dictionary, relationship table, and brief project description. | 
+| 3 | [Zuber SQL Project Task Answers](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Zuber_SQL_Project/Zuber%20SQL%20Project%20Task%20Answers.txt) | A .txt file containing SQL code answers for the project questions | 
+| 4 | [Zuber SQL Project Tasks](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Zuber_SQL_Project/Zuber%20SQL%20Project%20Tasks.pdf) | A .pdf file containing the questions/ tasks for the project | 
+| 5 | [Zuber_README](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Zuber_SQL_Project/Zuber_README.md) | Current View, Contains relevant information about the project | 
 
 
 | Section Title | Description |
