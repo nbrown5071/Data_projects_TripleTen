@@ -32,7 +32,7 @@ The Tableau Public workbook can be found <a href='https://public.tableau.com/vie
 ### Project Description 
 Zomato is an Indian multinational restaurant aggregator and food delivery company. TripleTen provided multiple test datasets. The ask was to perform a customer analysis, sales analysis, restaurant analysis, or other analysis using the data in either Tableau or Microsoft Power BI. The first step, was to decided which analysis to perform and create a detailed research proposal. The research proposal should outline the final report and visuals by including questions, hypothesis, and potential visuals to be displayed in the final report and dashboard. The final report and dashboard should not deviate from the research proposal. It should included recommendations and limitations
 
-### Data
+### About the Data
 The data was received and downloaded from the TripleTen learning platform. It contained five different .csv files (orders, users, food, restaurants, & menu). The below are the files I used for my analysis:
 - `'users.csv'`: The file contained User data (name, user id, email address, etc.) and demographic data (age, monthly income, education level, marital status, etc.) information about Zomato's customers.
 - `'orders.csv'`: The file contained order history data including order date, sales quantity, and amount, currency, and user id, etc.
